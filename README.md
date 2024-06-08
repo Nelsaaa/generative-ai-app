@@ -56,4 +56,3 @@
 
 ---
 
-Ce guide devrait aider votre collaborateur à démarrer le projet sur VS Code. N'hésitez pas à le personnaliser ou à ajouter des détails supplémentaires selon les besoins spécifiques de votre projet.
